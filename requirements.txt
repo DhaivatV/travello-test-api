@@ -2,8 +2,7 @@ asgiref
 Django
 djangorestframework
 gunicorn
+psycopg2
 pytz
 sqlparse
 whitenoise
-Django
-djangorestframework
